@@ -10,6 +10,8 @@ You can also apply this to your own FNF mod.
 - Cursor-based option navigation  
 - UI remains visible during pause  
 
+### Preview
+![Pause Menu Preview](preview.png)
 
 ## Installation
 1. Copy the following folders into your Psych Engine mod directory:
