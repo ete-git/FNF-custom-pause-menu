@@ -1,7 +1,7 @@
 # Custom Pause Menu for Psych Engine
 
-A custom pause menu made for Psych Engine using Lua scripting.  
-You can easily add it to your own FNF mod.
+I made a custom pause menu for Psych Engine using Lua scripting as a personal hobby.
+You can also apply this to your own FNF mod.
 
 
 
