@@ -29,13 +29,6 @@ mods/
 2. Make sure the folder structure looks exactly like the example above.  
 3. Launch Psych Engine and test it in your mod!
 
-## How to Use
-You can edit `CustomPauseMenu.lua` to:
-- Add or remove options  
-- Change fonts, colors, or layout  
-- Customize pause sounds or transitions  
-- Replace the images inside `images/pausemenu/` with your own designs  
-  (Make sure to keep the same file names, e.g. `pause_resume.png`)
 
 ## Notes
 - Tested on **Psych Engine 1.0.4h** — at least it works on this version.  
