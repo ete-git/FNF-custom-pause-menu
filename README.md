@@ -42,3 +42,7 @@ mods/
 ## Link
 Required engine
 [Psych engine](https://gamebanana.com/mods/309789)
+
+## Credits
+- Psych Engine by ShadowMario & RiverOaken
+(https://github.com/ShadowMario/FNF-PsychEngine)
